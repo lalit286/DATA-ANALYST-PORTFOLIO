@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #add8e6; ;
+    color: #333;
+}
+
+
+
+header {
+    border: 5px solid black; /* Black border */
+    background-color: #add8e6;
+    color: black;  /* Black text */
+    padding: 15px;
+    text-align: center;
+	font-size: 15px; /* Adjusted font size */
+}
+
+/* header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+} */
+
+main {
+    padding: 20px;
+}
+
+main section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #00008b;;
+}
+
+a {
+    color: #00008b;;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.centered-title , .centered-text {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.dashboard-image {
+    max-width: 20%;  /* Adjust the percentage as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    flex-wrap: wrap; /* Allows wrapping to the next line if needed */
+}
+
+.footer-container span,
+.footer-container a {
+    color: white;
+    font-weight: bold;
+}
+
+footer p {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.social-media {
+    display: inline; /* Ensure the social media links are inline */
+    margin-left: 0px; /* Small space between "Connect with me:" and social links */
+}
+
+/* footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
