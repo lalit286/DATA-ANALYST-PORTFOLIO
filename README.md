@@ -1,4 +1,4 @@
-****User Story: ****
+**User Story:** 
 Sales Performance Analysis Dashboard
  Created a Tableau dashboard to visualize the sales performance of two selected regions. 
 This will help the organization understand and compare their performance, identify areas for improvement, and support strategic decision-making.
