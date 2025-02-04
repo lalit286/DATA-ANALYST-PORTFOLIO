@@ -19,7 +19,7 @@ o	Analyze sales performance by product category.
 o	Identify best-selling products and products with declining sales.
 
 **Dashboard**
-![Dashboard Image](URL)
+![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Region%20Sales%20Analysis.png)
 
 
 
