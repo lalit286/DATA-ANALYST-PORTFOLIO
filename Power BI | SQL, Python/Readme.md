@@ -57,9 +57,10 @@ The Power BI dashboard will include the following components:
 # Pizza Sales Dashboard
 
 ## Dashboard
-[View Power BI Dashboard]([path/to/your-dashboard.pbix](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report.pbix))
+![SALES DASHBOARD](URL)
+
 
 ## Documentation
-[View Word Document]([path/to/your-document.docx](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report.pbix))
+[VIEW SQL QUERIES](URL)
 
 
