@@ -61,10 +61,13 @@ The Power BI dashboard will include the following components:
 
 
 **Dashboard**
-![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Region%20Sales%20Analysis.png)
+![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report_Dashboard.png)
+
+**BEST/WORST SELLERS**
+![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report_Dashboard2.png)
 
 
-## Documentation
+ **SQL QUERIES**
 [VIEW SQL QUERIES](URL)
 
 
