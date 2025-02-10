@@ -54,6 +54,9 @@ The Power BI dashboard will include the following components:
 
 * Top 5 and Bottom 5 Pizzas by Total Orders
 
+ **SQL QURIES**
+ 
+
 # Pizza Sales Dashboard
 
 ## Dashboard
