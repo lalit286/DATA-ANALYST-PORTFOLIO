@@ -59,8 +59,9 @@ The Power BI dashboard will include the following components:
 
 # Pizza Sales Dashboard
 
-## Dashboard
-![SALES DASHBOARD](URL)
+
+**Dashboard**
+![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Region%20Sales%20Analysis.png)
 
 
 ## Documentation
